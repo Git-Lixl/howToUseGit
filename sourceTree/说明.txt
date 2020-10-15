@@ -2,3 +2,7 @@
 2、先不要安装sourceTree（现在安装会默认下载内置git，由于被墙会卡死）
 3、git官网下载最新的git，并安装
 4、git安装完毕后，再安装sourceTree，这时候会默认关联安装好的git
+
+
+-----------------------------------------------------------------------
+学习git分支:https://learngitbranching.js.org/?locale=zh_CN
