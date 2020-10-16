@@ -3,5 +3,7 @@
 3、git官网下载最新的git(下载缓慢可通过：https://npm.taobao.org/mirrors/git-for-windows/下载)，并安装
 4、git安装完毕后，再安装sourceTree，这时候会默认关联安装好的git
 
+1、mai追加内容
+
 mai追加内容
 
